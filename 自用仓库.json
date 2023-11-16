@@ -1,0 +1,68 @@
+{
+"storeHouse":[
+{
+"sourceName":"在线仓库",
+"sourceUrl":"https://raw.fgit.cf/qcfree/tvboxzy/main/自用.json"
+},
+{
+"sourceName":"一锅端仓库",
+"sourceUrl":"http://xn--3pr.xn--e8yw23d.love:66/tvbox.json"
+},
+{
+"sourceName":"业余打发新版在线仓库",
+"sourceUrl":"https://pan.shangui.cc/f/XAyUd/zx.json"
+},
+{
+"sourceName":"精品多仓 ",
+"sourceUrl":"https://i0k.cn/2xa129"
+},
+{
+"sourceName":"分享者专属仓库 ",
+"sourceUrl":"https://ghproxy.net/https://raw.githubusercontent.com/yyfxz/yyrh/main/fxz.json"
+},
+{
+"sourceName":"影视仓多仓 ",
+"sourceUrl":"https://agit.ai/VivoMax/online/raw/branch/master/多线路.json"
+},
+{
+"sourceName":"月光宝盒多仓 ",
+"sourceUrl":"https://jihulab.com/ygbh1/box/-/raw/main/dcang/dc.json"
+},
+{
+"sourceName":"星河多仓  ",
+"sourceUrl":"http://52bsj.vip:81/api/v3/file/get/65430/zongcang.txt?sign=9ncAS6eZ86xmIZGf5FGGdNuBvztyubgFNamtypebe08%3D%3A0"
+},
+{
+"sourceName":"多多接口多仓  ",
+"sourceUrl":"https://jihulab.com/duomv/apps/-/raw/main/fast.json"
+},
+{
+"sourceName":"多多多仓  ",
+"sourceUrl":"https://jihulab.com/duomv/apps/-/raw/main/duo.json"
+},
+{
+"sourceName":"宝盒多仓",
+"sourceUrl":"https://jihulab.com/ygbh1/box/-/raw/main/dcang/dc2.json"
+},
+{
+"sourceName":"宝盒max多仓",
+"sourceUrl":"https://agit.ai/butterfly/md/raw/branch/master/zYGBHmax"
+},
+{
+"sourceName":"吾爱有三日月与卿仓库",
+"sourceUrl":"http://52bsj.vip:98/wuaihosue"
+},
+{
+"sourceName":"小胡软件多仓",
+"sourceUrl":"https://agit.ai/xiaohu/tvbox/raw/branch/main/duocang"
+},
+{
+"sourceName":"云星日记仓库",
+"sourceUrl":"https://itvbox.cc/可视TV/云星日记/仓库.json"
+},
+{
+"sourceName":"猎狼多仓",
+"sourceUrl":"http://tvbox.lltv8.top"
+}
+]
+}

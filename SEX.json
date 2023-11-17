@@ -1,5 +1,5 @@
 {
-"spider":"https://fastly.jsdelivr.net/gh/yangxb1/aa@main/jar/zy.jar",
+"spider":"https://raw.fgit.cf/yangxb1/aa/main/jar/118.jar",
 "lives":[
 {"name":"直播","type":0,"url":"./tv/live.txt","epg":"https://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
 {"name":"SEX","type":0,"url":"./tv/SEX.txt","epg":"https://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
